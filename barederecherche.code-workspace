@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../barederecherche"
+		},
+		{
+			"path": "../pageauto"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pageauto"
+	}
+}
